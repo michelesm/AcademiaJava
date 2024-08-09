@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class BilhetesVendidos {
 
 	public static void main(String[] args) {
+		
+		//djkalhdkjhdkhdkadhkhajk
 
 		double classeA = 50;
 		double classeB = 30;
